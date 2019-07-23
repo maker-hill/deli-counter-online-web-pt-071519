@@ -18,7 +18,7 @@ end
   end
 end
    
-def take_a_number(katz_deli,string)
+def take_a_number(array,string)
   counter = 1
   guest = 0
   katz_deli = []
