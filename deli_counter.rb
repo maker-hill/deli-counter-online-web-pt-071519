@@ -25,4 +25,11 @@ def take_a_number(array,string)
   
   puts "Welcome, #{array[guest]}. You are number #{counter} in line."
 end
+
+def now_serving(array)
+  if
+    
+  else
+    puts 
+end 
  
