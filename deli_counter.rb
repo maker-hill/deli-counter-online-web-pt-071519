@@ -21,12 +21,10 @@ end
 def take_a_number(array,string)
     array.push(string)
     counter = 1
-    guest = 0
-    if array.length > 0 
+    guest = -1
   puts "Welcome, #{array[guest]}. You are number #{counter} in line."
 end
   counter += 1 
-  guest += 1
 end
 
 def now_serving(array)
