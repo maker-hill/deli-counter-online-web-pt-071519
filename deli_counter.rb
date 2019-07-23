@@ -19,6 +19,8 @@ end
 end
    
 def take_a_number(array,string)
-    katz_deli.push(string)
+    array.push(string)
+    counter = 1
   "Welcome, #{katz_deli[guest]}. You are number #{counter} in line."
+    counter += 1 
 end
