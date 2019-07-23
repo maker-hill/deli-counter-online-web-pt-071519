@@ -23,7 +23,6 @@ def take_a_number(array,string)
     counter = 1
     guest = -1
   puts "Welcome, #{array[guest]}. You are number #{counter} in line."
-end
   counter += 1 
 end
 
