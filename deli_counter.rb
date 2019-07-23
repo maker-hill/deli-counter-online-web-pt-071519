@@ -21,6 +21,7 @@ end
 def take_a_number(array,string)
     array.push(string)
     counter = 1
-  "Welcome, #{katz_deli[guest]}. You are number #{counter} in line."
+    guest = 0
+  "Welcome, #{array[guest]}. You are number #{counter} in line."
     counter += 1 
 end
