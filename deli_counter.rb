@@ -25,3 +25,4 @@ def take_a_number(array,string)
   "Welcome, #{array[guest]}. You are number #{counter} in line."
     counter += 1 
 end
+ 
