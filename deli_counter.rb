@@ -19,13 +19,6 @@ end
 end
    
 def take_a_number(array,string)
-  counter = 1
-  guest = 0
-  katz_deli = []
-  while counter < katz_deli.length
     katz_deli.push(string)
-  end
-  counter += 1 
-  guest += 1 
   "Welcome, #{katz_deli[guest]}. You are number #{counter} in line."
 end
