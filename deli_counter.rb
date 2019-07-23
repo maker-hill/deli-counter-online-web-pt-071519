@@ -22,7 +22,7 @@ def take_a_number(array,string)
     array.push(string)
     counter = 1
     guest = -1
-  puts "Welcome, #{array[guest]}. You are number #{array.index(string)} in line."
+  puts "Welcome, #{array[guest]}. You are number #{array.index(string) + 1} in line."
   counter += 1 
 end
 
